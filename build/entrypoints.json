@@ -1,0 +1,9 @@
+{
+  "entrypoints": {
+    "tailwindcss": {
+      "css": [
+        "build/tailwindcss.css"
+      ]
+    }
+  }
+}
